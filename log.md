@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log
 
+### Day 0: June 9, 2017
+
+**Today's Project:** GitHub & Twitter accounts
+
+**Progress:**  Prep work...Today was time spent on setup. This includes:
+
+* Setup
+  * Forked the [100-days-of-code](https://github.com/Kallaway/100-days-of-code) repo
+  * Updated [my GitHub profile](https://github.com/james-priest) (@james-priest)
+  * Got [my Twitter account](https://twitter.com/james_priest1) going (@james_priest1)
+* Tweet'd my commitment to the challenge
+
+**Thoughts:** Glad to be starting this.
+
+**Link to work:** [My 100-days-of-code](https://github.com/james-priest/100-days-of-code) repo
+
+<!--
+### Day : June , 2017
+
+**Today's Project:**
+
+**Progress:**
+
+**Thoughts:**
+
+**Link to work:**
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -27,4 +54,4 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
