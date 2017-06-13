@@ -29,7 +29,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 ### Day (-2): June 9, 2017 - Friday
 
-**Today's Project:** 
+**Today's Project:**
 
 - GitHub profile
 - Twitter account
@@ -53,7 +53,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 ### Day (-1): June 10, 2017 - Saturday
 
-**Today's Project:** 
+**Today's Project:**
 
 - FCC Code Challenges
 - Learning How to Learn MOOC
@@ -72,23 +72,50 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 ---
 
-### Day (0): June 11, 2017 - Saturday
+### Day (0): June 11, 2017 - Sunday
 
-**Today's Project:** 
+**Today's Project:**
 
 - FCC Code Challenges
 - Learning How to Learn MOOC
 
 **Progress:**
 
-- MOre CSS
+- More CSS
 - set font styles
 
 **Link to work:**
 
 - [My FCC Profile Map](https://www.freecodecamp.com/james-priest)
 
-**Thoughts:** Finished [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) and took my final exam with 100% score!
+**Thoughts:** Finished [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) and passed with 100% on my final exam!
+
+---
+
+### Day (1): June 12, 2017 - Monday
+
+**Today's Project:**
+
+- FCC Code Challenges
+- Udemy's [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) course
+
+**Progress:**
+
+- More CSS on FCC
+- set font styles
+
+**Link to work:**
+
+- [My FCC Profile Map](https://www.freecodecamp.com/james-priest)
+
+**Thoughts:** Signed up for Colt Steele's [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) course at Udemy today. I'm looking forward to using the bootcamp along side FCC as part of my dev program. Appearently folks are doing this with [good results](https://forum.freecodecamp.com/t/the-web-developer-bootcamp-udemy-review/61595/8).
+
+It'll go something like this:
+
+1. Watch video
+1. Code the exercises myself
+1. Do FCC Code Challanges
+1. Update my 100 days of Code [log](https://github.com/james-priest/100-days-of-code/blob/master/log.md) and [tweet](https://twitter.com/james_priest1) my results
 
 ---
 <!--
@@ -126,7 +153,6 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
-
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
@@ -134,5 +160,6 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
+
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
