@@ -56,7 +56,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Today's Project:** 
 
 - FCC Code Challenges
-- Learning How to Lean MOOC
+- Learning How to Learn MOOC
 
 **Progress:**
 
@@ -68,10 +68,29 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 - [My FCC Profile Map](https://www.freecodecamp.com/james-priest)
 
-**Thoughts:** I'm wrapping up a great MOOC called [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn). This in the top ten of all-time most popular MOOCs. I can't recommend it enough for getting prep'd to do FCC or any other intensive development program, bootcamp or onlince course.
+**Thoughts:** I'm wrapping up a great MOOC called [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) This in the top ten of all-time most popular MOOCs. I can't recommend it enough for getting prep'd to do FCC or any other intensive development program, bootcamp or online course.
 
 ---
 
+### Day (0): June 11, 2017 - Saturday
+
+**Today's Project:** 
+
+- FCC Code Challenges
+- Learning How to Learn MOOC
+
+**Progress:**
+
+- MOre CSS
+- set font styles
+
+**Link to work:**
+
+- [My FCC Profile Map](https://www.freecodecamp.com/james-priest)
+
+**Thoughts:** Finished [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) and took my final exam with 100% score!
+
+---
 <!--
 ### Day 0: June 10, 2017 - Saturday
 
