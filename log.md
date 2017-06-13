@@ -92,11 +92,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 ---
 
-<<<<<<< HEAD
 ### Day 1: June 12, 2017 - Monday
-=======
-### Day (1): June 12, 2017 - Monday
->>>>>>> 1956725a9fc7e9555116f2d8e3ff86db73eb28ff
 
 **Today's Project:**
 
