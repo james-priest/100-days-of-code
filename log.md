@@ -141,7 +141,7 @@ My goal is to do 4 Pomodoros for each two-hour Study block (in blue).
 ![Time Map Schedule](images/TimeMap.jpg)
 
 ---
-<!--
+
 ### Day 3: June 14, 2017 - Wednesday
 
 **Today's Project(s):**
@@ -157,10 +157,11 @@ My goal is to do 4 Pomodoros for each two-hour Study block (in blue).
 
 - [My FCC Code Portfolio](https://www.freecodecamp.com/james-priest "james-priest's code portfolio on FreeCodeCamp")
 
-**Thoughts:**
+**Thoughts:** This took a little while to get started on.  I'm reading Personal Kanban by Jim Benson. Here's a link to the companion site: [Personal Kanban](http://www.personalkanban.com/pk/ "Short Overview and YouTube video of Personal Kanban").
+
+![My Kanban Board](images/KanbanBoard.jpg "My Kanban board")
 
 ---
--->
 
 <!--
 ### Day #: June 1, 2017 - Thursday
