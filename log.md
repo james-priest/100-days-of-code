@@ -1,8 +1,8 @@
 # 100 Days Of Code - Log
 
-**Main target:** ***I will code for at least an hour every day for the next 100 days.***
+**Commitment:** ***I will code for at least an hour every day for the next 100 days.***
 
-Actually it is a challenge for 100 days to make a habit of everyday coding to develop my skill sets.  I inspired by [Alexander Kallaway](https://github.com/Kallaway "Alexander Kallaway") #100DaysOfCode challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com") or [the official repo](https://github.com/Kallaway/100-days-of-code "the official repo").
+Actually it is a challenge for 100 days to make a habit of everyday coding to develop my skill sets.  I was inspired by Alexander Kallaway's [#100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
 
 |  Start Date   | End Date     |
 | ------------- | ------------ |
@@ -17,10 +17,10 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 ### Secondary goals
 
-- Pass my Microsoft Programming in HTML5 with JavaScript & CSS3 Certification - [Exam 70-480](https://www.microsoft.com/en-us/learning/exam-70-480.aspx)
+- Pass my Microsoft Programming in HTML5 with JavaScript & CSS3 Certification - [Exam 70-480](https://www.microsoft.com/en-us/learning/exam-70-480.aspx "Exam 70-480: Programming in HTML5 with JavaScript and CSS3")
 - Knock out the following...
   - Complete [FCC Front End Development Certification](https://www.freecodecamp.com/james-priest "FCC Profile") program
-  - Complete [Udemy The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) certificate program
+  - Complete [Udemy The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/ "The Web Developer Bootcamp by Colt Steele") certificate program
 - Considering...
   - Maybe [Udacity's Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001?utm_medium=referral&utm_campaign=api) program
   - Maybe [Coding Dojo's Full Stack Developer Bootcamp](http://www.codingdojo.com/web-development-accelerators)
@@ -29,7 +29,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 ### Day (-2): June 9, 2017 - Friday
 
-**Today's Project:**
+**Today's Project(s):**
 
 - GitHub profile
 - Twitter account
@@ -38,14 +38,14 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 **Progress:**  Prep work...Today was time spent on setup. This includes:
 
 - Setup
-  - Forked the [100-days-of-code](https://github.com/Kallaway/100-days-of-code) repo
-  - Updated [my GitHub profile](https://github.com/james-priest) (@james-priest)
-  - Got [my Twitter account](https://twitter.com/james_priest1) going (@james_priest1)
+  - Forked the Official [100-days-of-code GitHub Repo](https://github.com/Kallaway/100-days-of-code "Official #100DaysOfCode GitHub Repo")
+  - Updated [my GitHub profile](https://github.com/james-priest "James Priest on GitHub") (@james-priest)
+  - Got [my Twitter account](https://twitter.com/james_priest1 "James Priest on Twitter") going (@james_priest1)
 - Tweet'd my commitment to the 100-days-of-code challenge
 
 **Link to work:**
 
-- My GitHub [100-days-of-code](https://github.com/james-priest/100-days-of-code) repo
+- My GitHub [100-days-of-code](https://github.com/james-priest/100-days-of-code "this repo") repo
 
 **Thoughts:** Glad to be starting this.
 
@@ -53,7 +53,7 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 ### Day (-1): June 10, 2017 - Saturday
 
-**Today's Project:**
+**Today's Project(s):**
 
 - FCC Code Challenges
 - Learning How to Learn MOOC
@@ -66,15 +66,15 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Link to work:**
 
-- [My FCC Profile Map](https://www.freecodecamp.com/james-priest)
+- [My FCC Code Portfolio](https://www.freecodecamp.com/james-priest "james-priest's code portfolio on FreeCodeCamp")
 
-**Thoughts:** I'm wrapping up a great MOOC called [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) This in the top ten of all-time most popular MOOCs. I can't recommend it enough for getting prep'd to do FCC or any other intensive development program, bootcamp or online course.
+**Thoughts:** I'm wrapping up a great MOOC from Coursera called [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn "Coursera: Learning How to Learn") This in the top ten of all-time most popular MOOCs. I can't recommend it enough for getting prep'd to do FCC or any other intensive development program, bootcamp or online course.
 
 ---
 
 ### Day (0): June 11, 2017 - Sunday
 
-**Today's Project:**
+**Today's Project(s):**
 
 - FCC Code Challenges
 - Learning How to Learn MOOC
@@ -86,18 +86,18 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Link to work:**
 
-- [My FCC Profile Map](https://www.freecodecamp.com/james-priest)
+- [My FCC Code Portfolio](https://www.freecodecamp.com/james-priest "james-priest's code portfolio on FreeCodeCamp")
 
-**Thoughts:** Finished [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) and passed with 100% on my final exam!
+**Thoughts:** Finished Coursera's [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn "Coursera: Learning How to Learn") and passed with 100% on my final exam!
 
 ---
 
 ### Day 1: June 12, 2017 - Monday
 
-**Today's Project:**
+**Today's Project(s):**
 
 - FCC Code Challenges
-- Udemy's [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) course
+- Udemy's [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/ "Web Developer Bootcamp Udemy Course by Colt Steele") course
 
 **Progress:**
 
@@ -106,60 +106,78 @@ Actually it is a challenge for 100 days to make a habit of everyday coding to de
 
 **Link to work:**
 
-- [My FCC Profile Map](https://www.freecodecamp.com/james-priest)
+- [My FCC Code Portfolio](https://www.freecodecamp.com/james-priest "james-priest's code portfolio on FreeCodeCamp")
 
-**Thoughts:** Signed up for Colt Steele's [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) course at Udemy today. I'm looking forward to using the bootcamp along side FCC as part of my dev program. Appearently folks are doing this with [good results](https://forum.freecodecamp.com/t/the-web-developer-bootcamp-udemy-review/61595/8).
+**Thoughts:** Signed up for Colt Steele's [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/ "Web Developer Bootcamp Udemy Course by Colt Steele") course at Udemy today. I'm looking forward to using the bootcamp along side FCC as part of my dev program. Appearently folks are doing this with [good results](https://forum.freecodecamp.com/t/the-web-developer-bootcamp-udemy-review/61595/8 "Review of Web Developer Bootcamp").
 
 It'll go something like this:
 
 1. Watch video
 1. Code the exercises myself
 1. Do FCC Code Challanges
-1. Update my 100 days of Code [log](https://github.com/james-priest/100-days-of-code/blob/master/log.md) and [tweet](https://twitter.com/james_priest1) my results
+1. Update my [100 days of Code log](https://github.com/james-priest/100-days-of-code/blob/master/log.md "this log") and [tweet](https://twitter.com/james_priest1 "James Priest on Twitter") my results
 
 ---
-<!--
-### Day 0: June 10, 2017 - Saturday
 
-**Today's Project:** GitHub & Twitter accounts
+### Day 2: June 13, 2017 - Tuesday
+
+**Today's Project(s):**
+
+- Time Map - My Daily Code Schedule
+- FCC Code Challenges
 
 **Progress:**
 
-- Prep work...Today was time spent on setup. This includes:
+- Wrapped up Time Map
 
 **Link to work:**
 
-- [My 100-days-of-code](https://github.com/james-priest/100-days-of-code) repo
+- [My FCC Code Portfolio](https://www.freecodecamp.com/james-priest "james-priest's code portfolio on FreeCodeCamp")
+
+**Thoughts:** Today's work was more organizational and productivity-based in nature but necessary nontheless. It took me a while to come up with an aggressive but reasonable schedule.
+
+My goal is to do 4 Pomodoros for each two-hour Study block (in blue).
+
+![Time Map Schedule](images/TimeMap.jpg)
+
+---
+<!--
+### Day 3: June 14, 2017 - Wednesday
+
+**Today's Project(s):**
+
+- Kanban board
+- FCC Code Challenges
+
+**Progress:**
+
+- Got going on my Kanban board
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/james-priest "james-priest's code portfolio on FreeCodeCamp")
 
 **Thoughts:**
 
 ---
+-->
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+<!--
+### Day #: June 1, 2017 - Thursday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Project(s):**
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Progress:**
 
-**Link to work:** [Calculator App](http://www.example.com)
+-
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to work:**
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+-
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:**
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
+---
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
