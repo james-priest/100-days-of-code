@@ -163,6 +163,26 @@ My goal is to do 4 Pomodoros for each two-hour Study block (in blue).
 
 ---
 
+### Day 4: June 15, 2017 - Thursday
+
+**Today's Project(s):**
+
+- FCC Code Challenges
+
+**Progress:**
+
+- Completed some form element excercises
+- Completed css class & id selectors
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/james-priest "james-priest's code portfolio on FreeCodeCamp")
+
+**Thoughts:** Today was a little light on the workload. It's funny how I can spend ALL day on the computer do code-related activities without actually coding. :/ Go figure...
+
+The important thing is that I did get something done and posted. I'm keeping it pushin...
+
+---
 <!--
 ### Day #: June 1, 2017 - Thursday
 
@@ -174,7 +194,7 @@ My goal is to do 4 Pomodoros for each two-hour Study block (in blue).
 
 **Link to work:**
 
--
+- [My FCC Code Portfolio](https://www.freecodecamp.com/james-priest "james-priest's code portfolio on FreeCodeCamp")
 
 **Thoughts:**
 
