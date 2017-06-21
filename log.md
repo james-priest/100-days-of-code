@@ -183,6 +183,26 @@ My goal is to do 4 Pomodoros for each two-hour Study block (in blue).
 The important thing is that I did get something done and posted. I'm keeping it pushin...
 
 ---
+
+### Day 5: June 20, 2017 - Tuesday
+
+**Today's Project(s):**
+
+- FCC Code Challenges
+
+**Progress:**
+
+- Finished the HTML5 & CSS section
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/james-priest "james-priest's code portfolio on FreeCodeCamp")
+
+**Thoughts:** So I skipped 5 days of postings & tweets but still was productive in my studies. I spend 8-10 hours in front of the computer daily; sometimes its directly related to learning and code challenges but half the time it's about reading about a new technology or configuring my dev environment or fine-tuning process. It's constant learning and applying that knowledge.
+
+The key is to get and find efficiencies your daily process and turn those into routine...
+
+---
 <!--
 ### Day #: June 1, 2017 - Thursday
 
