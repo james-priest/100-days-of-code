@@ -213,7 +213,7 @@ The key is to get and find efficiencies in your daily process and turn those int
 
 **Progress:**
 
-- Finished the HTML5 & CSS section
+- Finished the Gear Up for Success section of FCC (Joined FCC forum, Linked-In Alumni Network & Free Code Camp Group in Pasadena)
 
 **Link to work:**
 
@@ -221,6 +221,25 @@ The key is to get and find efficiencies in your daily process and turn those int
 - [JavaScript Module System Showdown: CommonJS vs AMD vs ES2015](https://t.co/l3SLLnxvZf "JavaScript article on auth0.com")
 
 **Thoughts:** I'm taking time to read about technologies, methodologies and language conventions. Right now it's a jumble of information but I know eventually it will all start to click and make sense.
+
+---
+
+### Day 7: June 24, 2017 - Saturday
+
+**Today's Project(s):**
+
+- FCC Code Challenges
+- Organized my iTunes ID3 tags by using python script
+
+**Progress:**
+
+- Started Responsive Design with Bootstrap section of FCC
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/james-priest "james-priest's code portfolio on FreeCodeCamp")
+
+**Thoughts:** It's easy for me to get distracted with the six different projects working on at the same time.  I need to limit my WIP in order to make consistent headway.
 
 ---
 <!--
