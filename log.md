@@ -198,9 +198,29 @@ The important thing is that I did get something done and posted. I'm keeping it 
 
 - [My FCC Code Portfolio](https://www.freecodecamp.com/james-priest "james-priest's code portfolio on FreeCodeCamp")
 
-**Thoughts:** So I skipped 5 days of postings & tweets but still was productive in my studies. I spend 8-10 hours in front of the computer daily; sometimes its directly related to learning and code challenges but half the time it's about reading about a new technology or configuring my dev environment or fine-tuning process. It's constant learning and applying that knowledge.
+**Thoughts:** So I skipped 5 days of postings & tweets but still was productive in my studies. I spend 8-10 hours in front of the computer daily; sometimes its directly related to learning and code challenges but half the time it's about reading about a new technology or configuring my dev environment or fine-tuning a process. It's constant learning and applying that knowledge.
 
-The key is to get and find efficiencies your daily process and turn those into routine...
+The key is to get and find efficiencies in your daily process and turn those into routine...
+
+---
+
+### Day 6: June 22, 2017 - Thursday
+
+**Today's Project(s):**
+
+- FCC Code Challenges
+- Learned about closures & module patterns in JavaScript
+
+**Progress:**
+
+- Finished the HTML5 & CSS section
+
+**Link to work:**
+
+- [My FCC Code Portfolio](https://www.freecodecamp.com/james-priest "james-priest's code portfolio on FreeCodeCamp")
+- [JavaScript Module System Showdown: CommonJS vs AMD vs ES2015](https://t.co/l3SLLnxvZf "JavaScript article on auth0.com")
+
+**Thoughts:** I'm taking time to read about technologies, methodologies and language conventions. Right now it's a jumble of information but I know eventually it will all start to click and make sense.
 
 ---
 <!--
